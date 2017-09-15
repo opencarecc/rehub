@@ -15,7 +15,7 @@ excerpt: Here the essentials of <b>reHub</b> project.
 ### Version 0.1 - 2017/05/03
 
 * <b>ESSENTIALS</b>
-	* * <b>Project Name:</b>
+	* <b>Project Name:</b>
 		* reHub
 	* <b>Users:</b>
 		* Patients who need a proprioceptive rehabilitation
