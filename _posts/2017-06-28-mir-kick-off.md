@@ -20,6 +20,6 @@ We’ve been makers at WeMake since the makerspace opened and we will not stay o
 
 Our first approach to the residency was with <b>Chiara</b>, from the <b>opencare MIR</b> team. She welcomed us with the MIR welcome pack and defined our first activity: <b>Agile Planning.</b>
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/wemake_cc/albums/72157685825940784" title="opencare MIR - Breathing Games - Sensors"><img src="https://farm5.staticflickr.com/4415/37243412385_1a3e405f7a_z.jpg" width="800" height="450" alt="opencare MIR - Breathing Games - Sensors"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/wemake_cc/albums/72157686683848184" title="opencare MIR - reHub - Agile Planning"><img src="https://farm5.staticflickr.com/4415/37243412385_1a3e405f7a_z.jpg" width="800" height="450" alt="opencare MIR - reHub - Agile Planning"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 More details on [EdgeRyders](https://edgeryders.eu/t/rehub---agile-kick-off-at-wemake/548)!
