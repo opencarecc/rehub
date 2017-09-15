@@ -29,6 +29,8 @@ excerpt: Here the essentials of <b>reHub</b> project.
 		* A digital glove device used to monitor hands movements
 		* Tutorials, kits and software to make the glove
 
+***
+
 * <b>OUTCOMES</b>
 	* <b>Content/Development:</b>
 		* opencare Maker in Residence application - [Link](https://edgeryders.eu/t/rehub-rehabilitation-glove/6600)
@@ -41,6 +43,8 @@ excerpt: Here the essentials of <b>reHub</b> project.
 		* Sensori di pressione
 		* Sensori di posizione 6DOF (3DOF Accelerometro e 3DOF Giroscopio)
 
+***
+
 * <b>RELEASES</b>
 	* <b>Software:</b>
 		* Firmaware - [Link GitHub](https://github.com/reHubGlove/gloveFirmware32u4)
@@ -48,11 +52,15 @@ excerpt: Here the essentials of <b>reHub</b> project.
 		* Rendering - [Link GitHub](https://github.com/reHubGlove/processingGloveRendering)
 		* bleGlove2osc - [Link GitHub](https://github.com/reHubGlove/bleGlove2osc)
 
+***
+
 * <b>NEXT STEPS</b>
 	* <b>Content/Development:</b>
 		* Identify our final user(s)
 		* Built a community
 		* Start a business strategy
+
+***
 
 * <b>Link:</b>
   * [MIR Application 03/05/2017](https://edgeryders.eu/t/rehub-rehabilitation-glove/6600)
