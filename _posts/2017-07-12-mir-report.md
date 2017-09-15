@@ -6,7 +6,7 @@ date: 2017-07-12 12:13:04 +0200
 image: /breathinggames/assets/BG-post-img-report.jpg
 categories: news
 by: "Silvia"
-published: true
+published: false
 excerpt: Our two-week <b>opencare</b> residence at <b>WeMake</b> Milano was a success!
 ---
 

@@ -6,7 +6,7 @@ date: 2017-07-03 10:13:04 +0200
 image: /breathinggames/assets/BG-post-img-devices.jpg
 categories: news
 by: "Silvia"
-published: true
+published: false
 excerpt: Our <b>opencare</b> residence at WeMake Milan is moving forward!
 ---
 
