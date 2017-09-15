@@ -12,9 +12,9 @@ excerpt: Our <b>opencare</b> residence at WeMake Milan is moving forward!
 
 <img src="https://opencarecc.github.io/rehub/assets/RH-post-img-kick-off-01.jpg" alt="reHub-Team">
 
-Last week we had the chance to start our residency at WeMake. Our experience will be different from those of ResQ and Breathing Games.
+Hi everyone! Last week we had the chance to start our residency at WeMake. Our experience will be different from those of [ResQ](https://opencarecc.github.io/ResQ/) and [Breathing Games](https://opencarecc.github.io/breathinggames/).
 
-We’ve been makers at WeMake since the makerspace opened and we will not stay overnight or work everyday for 2 weeks in a row, we will have to manage to do everything when we have the chance to meet: Wednesdays and Saturdays from now to august.
+We are Sara & Mauro, reHub team. We've been makers at WeMake since the makerspace opened and we will not stay overnight or work everyday for 2 weeks in a row, we will have to manage to do everything when we have the chance to meet: Wednesdays and Saturdays from now to august.
 
 <img src="https://opencarecc.github.io/rehub/assets/RH-post-img-kick-off-02.jpg" alt="reHub-Team">
 
