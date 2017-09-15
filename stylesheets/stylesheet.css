@@ -249,8 +249,8 @@ nav img {
 
 .btn:hover {
   text-decoration: none;
-  background-color: rgb(41,160,209);
-  border: 1px solid rgb(41,160,209);
+  background-color: #000000;
+  border: 1px solid #000000;
   color: rgb(255,255,255);
   cursor: pointer;
 }
@@ -262,8 +262,8 @@ a:last-of-type.btn {
   border: 1px solid #851627;
 }
 a:last-of-type.btn:hover {
-  background-color: #c99994;
-  border: 1px solid #c99994;
+  background-color: #9a3f42;
+  border: 1px solid #9a3f42;
 }
 
 /* BUTTONS media queries */
