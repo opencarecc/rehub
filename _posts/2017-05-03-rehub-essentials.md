@@ -7,7 +7,7 @@ image: /rehub/assets/RH-post-img-application-02.jpg
 categories: news
 by: "Silvia"
 published: true
-excerpt: Here the essentials of reHub project.
+excerpt: Here the essentials of <b>reHub</b> project.
 ---
 
 <img src="https://opencarecc.github.io/rehub/assets/RH-post-img-application-02.jpg" alt="reHub-02">
