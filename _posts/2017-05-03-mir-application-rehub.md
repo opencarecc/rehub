@@ -18,7 +18,7 @@ On 3rd of May 2017 we submitted our application to the <b>CALL FOR MAKERS - open
 
 The <b>opencare Maker in Residence</b> is the first edition of a special residency program organized by [WeMake](wemake.cc), as part of the <b>opencare</b> European project. It provides support, assistance, funding and acceleration to Makers – from all over the world – who are interested in developing / validating / iterating an open source project in the health and care field.
 
-<img src="https://opencarecc.github.io/reHub/assets/RH-post-img-application-02.jpg" alt="reHub-02">
+<img src="https://opencarecc.github.io/rehub/assets/RH-post-img-application-02.jpg" alt="reHub-02">
 
 We applied as [reHub](http://www.rehub.pro/). <b>reHub</b> is a tool designed for <b>proprioceptive rehabilitation</b>, to recover movement fluidity after an injury: provided by the physiotherapist, it allows the patient to record and report exercises data such as hand position, finger flexion and fingertips pressure. Recorded data are displayed through a software that reproduces a 3D hand, its movements and detected values.
 
