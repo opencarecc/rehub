@@ -14,7 +14,7 @@ excerpt: Here the essentials of <b>reHub</b> project.
 
 ### Version 0.1 - 2017/05/03
 
-* <b>ESSENTIALS</b>
+#### ESSENTIALS
 	* <b>Project Name:</b>
 		* reHub
 	* <b>Users:</b>
