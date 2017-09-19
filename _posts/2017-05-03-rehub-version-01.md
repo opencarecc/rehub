@@ -14,7 +14,7 @@ excerpt: Here the essentials of <b>reHub</b> project.
 
 ### Version 0.1 - 2017/05/03
 
-## ESSENTIALS
+ESSENTIALS
 
 	* <b>Project Name:</b>
 		* reHub
@@ -32,7 +32,7 @@ excerpt: Here the essentials of <b>reHub</b> project.
 
 ***
 
-## OUTCOMES
+OUTCOMES
 
 	* <b>Content/Development:</b>
 		* opencare Maker in Residence application - [Link](https://edgeryders.eu/t/rehub-rehabilitation-glove/6600)
@@ -47,7 +47,7 @@ excerpt: Here the essentials of <b>reHub</b> project.
 
 ***
 
-## RELEASES
+RELEASES
 
 	* <b>Software:</b>
 		* Firmaware - [Link GitHub](https://github.com/reHubGlove/gloveFirmware32u4)
@@ -57,7 +57,7 @@ excerpt: Here the essentials of <b>reHub</b> project.
 
 ***
 
-## NEXT STEPS
+NEXT STEPS
 
 	* <b>Content/Development:</b>
 		* Identify our final user(s)
