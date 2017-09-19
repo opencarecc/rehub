@@ -12,12 +12,9 @@ excerpt: Here the Version 0.2 of <b>reHub</b> project.
 
 <img src="https://opencarecc.github.io/rehub/assets/RH-post-img-version-02.jpg" alt="reHub-02">
 
-### Version 0.2 - 2017/06/28
-
 ## Version 0.2 - 2017/06/28
 
-
-* <b>ESSENTIALS</b>
+## ESSENTIALS
 
 	* <b>Project Name:</b>
 		* reHub
@@ -46,21 +43,21 @@ excerpt: Here the Version 0.2 of <b>reHub</b> project.
 
 ***
 
-* <b>OUTCOMES</b>
+## OUTCOMES
 
 	* <b>Content/Development:</b>
 		* Agile Planning - [Link](https://edgeryders.eu/t/rehub---agile-kick-off-at-wemake/548)
 
 ***
 
-* <b>RELEASES</b>
+## RELEASES
 
 	* —
 		* _
 
 ***
 
-* <b>NEXT STEPS</b>
+## NEXT STEPS
 
 	* <b>Content/Development:</b>
 		* Organize events to promote the project
