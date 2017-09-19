@@ -18,10 +18,8 @@ excerpt: Here the Version 0.2 of <b>reHub</b> project.
 
 	* <b>Project Name:</b>
 		* reHub
-
 	* <b>Short description:</b>
 		* ReHub project is an online platform and open source kit that allow the monitoring of fingers and hand movement for athletes, rehabilitation patients and music instrument students that needs a certain and digital data to monitor the exercise. Unlike Neofect project our project is open source and open hardware.
-
 	* <b>Users:</b>
 		* People who need a certain and digital data to monitor the exercise.
 		* Patients who need a proprioceptive rehabilitation
@@ -46,18 +44,21 @@ excerpt: Here the Version 0.2 of <b>reHub</b> project.
 ***
 
 * <b>OUTCOMES</b>
+
 	* <b>Content/Development:</b>
 		* Agile Planning - [Link](https://edgeryders.eu/t/rehub---agile-kick-off-at-wemake/548)
 
 ***
 
 * <b>RELEASES</b>
+
 	* —
 		* _
 
 ***
 
 * <b>NEXT STEPS</b>
+
 	* <b>Content/Development:</b>
 		* Organize events to promote the project
 		* Engage communities (physiotherapists and patients, but also makers, designers, web developer and electronic experts)

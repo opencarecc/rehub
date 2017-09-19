@@ -21,7 +21,7 @@ excerpt: Some great updates from reHub team! We're working on textile & tech.
 
 <img src="https://opencarecc.github.io/rehub/assets/RH-post-img-working-02.jpg" alt="reHub-Working-opencare-MIR">
 
-<b>reHub</b> Team is at work during <b<opencare - MIR</b> to analyze and redesign the glove, improving the weak aspects of the old prototype:
+<b>reHub</b> Team is at work during <b>opencare - MIR</b> to analyze and redesign the glove, improving the weak aspects of the old prototype:
 
 ### Textile
 We are defining a new pattern for the glove: a surface of stretch material that covers the top of the hand and holds to it by soft elastic bands on the bottom. Tailoring a glove is not easy stuff, this new model is designed to be easily reproduced with digital fabrication and basic sewing knowledge.

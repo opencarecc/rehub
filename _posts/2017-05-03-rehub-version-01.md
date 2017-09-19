@@ -2,7 +2,7 @@
 layout: post
 title: "reHub - Version 0.1"
 subtitle: "prova prova prova"
-date: 2017-06-26 17:13:04 +0200
+date: 2017-05-03 17:13:04 +0200
 image: /rehub/assets/RH-post-img-application-02.jpg
 categories: news
 by: "Silvia"
@@ -15,6 +15,7 @@ excerpt: Here the essentials of <b>reHub</b> project.
 ### Version 0.1 - 2017/05/03
 
 * <b>ESSENTIALS</b>
+
 	* <b>Project Name:</b>
 		* reHub
 	* <b>Users:</b>
@@ -32,6 +33,7 @@ excerpt: Here the essentials of <b>reHub</b> project.
 ***
 
 * <b>OUTCOMES</b>
+
 	* <b>Content/Development:</b>
 		* opencare Maker in Residence application - [Link](https://edgeryders.eu/t/rehub-rehabilitation-glove/6600)
 	* <b>Software:</b>
@@ -46,6 +48,7 @@ excerpt: Here the essentials of <b>reHub</b> project.
 ***
 
 * <b>RELEASES</b>
+
 	* <b>Software:</b>
 		* Firmaware - [Link GitHub](https://github.com/reHubGlove/gloveFirmware32u4)
 		* Middleware
@@ -55,6 +58,7 @@ excerpt: Here the essentials of <b>reHub</b> project.
 ***
 
 * <b>NEXT STEPS</b>
+
 	* <b>Content/Development:</b>
 		* Identify our final user(s)
 		* Built a community
