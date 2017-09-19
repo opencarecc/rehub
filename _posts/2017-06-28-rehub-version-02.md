@@ -14,7 +14,7 @@ excerpt: Here the Version 0.2 of <b>reHub</b> project.
 
 ## Version 0.2 - 2017/06/28
 
-## ESSENTIALS
+* <b>ESSENTIALS</b>
 
 	* <b>Project Name:</b>
 		* reHub
@@ -43,21 +43,21 @@ excerpt: Here the Version 0.2 of <b>reHub</b> project.
 
 ***
 
-## OUTCOMES
+* <b>OUTCOMES</b>
 
 	* <b>Content/Development:</b>
 		* Agile Planning - [Link](https://edgeryders.eu/t/rehub---agile-kick-off-at-wemake/548)
 
 ***
 
-## RELEASES
+* <b>RELEASES</b>
 
 	* —
 		* _
 
 ***
 
-## NEXT STEPS
+* <b>NEXT STEPS</b>
 
 	* <b>Content/Development:</b>
 		* Organize events to promote the project
