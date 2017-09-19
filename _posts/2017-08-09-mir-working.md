@@ -7,7 +7,7 @@ image: /rehub/assets/RH-post-img-working.jpg
 categories: news
 by: "Silvia"
 published: true
-excerpt: Working on textile & tech.
+excerpt: Some great updates from reHub team! We're working on textile & tech.
 ---
 
 <img src="https://opencarecc.github.io/rehub/assets/RH-post-img-working.jpg" alt="reHub-Working-opencare-MIR">
