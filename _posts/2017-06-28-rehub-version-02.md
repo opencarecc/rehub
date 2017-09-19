@@ -14,6 +14,9 @@ excerpt: Here the Version 0.2 of <b>reHub</b> project.
 
 ### Version 0.2 - 2017/06/28
 
+## Version 0.2 - 2017/06/28
+
+
 * <b>ESSENTIALS</b>
 
 	* <b>Project Name:</b>
