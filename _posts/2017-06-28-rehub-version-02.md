@@ -3,7 +3,7 @@ layout: post
 title: "reHub - Version 0.2"
 subtitle: "prova prova prova"
 date: 2017-06-28 17:13:04 +0200
-image: /rehub/assets/RH-post-img-version-02
+image: /rehub/assets/RH-post-img-version-02.jpg
 categories: news
 by: "Silvia"
 published: true
