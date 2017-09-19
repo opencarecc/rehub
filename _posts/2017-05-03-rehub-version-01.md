@@ -14,7 +14,7 @@ excerpt: Here the essentials of <b>reHub</b> project.
 
 ### Version 0.1 - 2017/05/03
 
-ESSENTIALS
+* <b>ESSENTIALS</b>
 
 	* <b>Project Name:</b>
 		* reHub
@@ -31,8 +31,6 @@ ESSENTIALS
 		* Tutorials, kits and software to make the glove
 
 ***
-
-OUTCOMES
 
 	* <b>Content/Development:</b>
 		* opencare Maker in Residence application - [Link](https://edgeryders.eu/t/rehub-rehabilitation-glove/6600)
