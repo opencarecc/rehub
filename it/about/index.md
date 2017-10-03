@@ -3,10 +3,12 @@ layout: default
 title: About
 published: true
 ref: about
-lang: en
+lang: it
 ---
 
 # About
+
+NECESSITA TRADUZIONE
 
 <img src="https://opencarecc.github.io/rehub/assets/RH-post-img-application-02.jpg" alt="reHub-about-01">
 
