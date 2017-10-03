@@ -1,10 +1,16 @@
 <div class="column">
 	<div class="img_slider">
+  <!-- {% for item in site.data[page.lang].lang["slick"]["pics"] %}
+      <img src="{{ item.pic }}">
+    {% endfor %} -->
 	  <img src="https://opencarecc.github.io/rehub/assets/RH-slider-img-mir-1.jpg">
 	  <img src="https://opencarecc.github.io/rehub/assets/RH-slider-img-mir-2.jpg">
 	  <img src="https://opencarecc.github.io/rehub/assets/RH-slider-img-mir-3.jpg">
 	  <img src="https://opencarecc.github.io/rehub/assets/RH-slider-img-mir-4.jpg">
 	  <img src="https://opencarecc.github.io/rehub/assets/RH-slider-img-mir-5.jpg">
 	</div>
-<p>Some moments from the <b>opencare Maker in Residence</b> of reHub.</p>
+
+  <!-- slider caption -->
+  <p>{{ site.data[page.lang].lang["slick"]["description"] }}</p>
+<!-- <p>Some moments from the <b>opencare Maker in Residence</b> of reHub.</p> -->
 </div>
