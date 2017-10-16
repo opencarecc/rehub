@@ -1,7 +1,7 @@
 name: reHub
 author: WeMake
 markdown: kramdown
-baseurl: 
+baseurl:
 permalink: blog/:year/:month/:day/:title/
 plugins:
   - jekyll-sitemap
@@ -21,3 +21,18 @@ index:
 
 default_lang: "en"
 
+# Facebook OpenGraph stuff
+opengraph:
+  title: "reHub by opencarecc"
+  url: "http://opencarecc.github.io/rehub/"
+  description: "an interface of interaction man-machine"
+  image_url: "http://opencarecc.github.io/rehub/assets/OC-Logo-socials.png"
+
+# Twitter Card stuff
+twitter:
+  site: "reHub by opencarecc"
+  title: "reHub by opencarecc"
+  description: "an interface of interaction man-machine"
+  creator: "opencarecc"
+  domain: "http://opencarecc.github.io/rehub/"
+  image_url: "http://opencarecc.github.io/rehub/assets/OC-Logo-socials.png"
