@@ -2,19 +2,19 @@
 
 
 # ------------------------------
-# --- GLOBAL dictionary keys --- 
+# --- GLOBAL dictionary keys ---
 # ------------------------------
 global:
   read_more: "Read more"
   read_more_post: "Read more"
 
 # ----------------------------------
-# --- NAVIGATION dictionary keys --- 
+# --- NAVIGATION dictionary keys ---
 # ----------------------------------
 # project_logo: "<img src='../assets/OC-logo-breathinggames.svg'>"
 
 # ---------------------------------
-# --- HOME page dictionary keys --- 
+# --- HOME page dictionary keys ---
 # ---------------------------------
 # dictionary keys for homeheader.html include file
 header:
@@ -51,6 +51,7 @@ description: "<h3>Acknowledgements</h3>
 # dictionary keys for video.html include file
 video:
   title: "video english title"
+  url: "https://www.youtube.com/embed/z6lobpiFeiU"
   description: "english description"
   link: "about"
 
@@ -138,7 +139,7 @@ contribute:
 
 
 # ------------------------------
-# --- FOOTER dictionary keys --- 
+# --- FOOTER dictionary keys ---
 # ------------------------------
 # dictionary keys for footer.html include file
 footer:
@@ -147,7 +148,7 @@ footer:
 
 
 # --------------------------------
-# --- CATEGORY dictionary keys --- 
+# --- CATEGORY dictionary keys ---
 # --------------------------------
 # dictionary keys for category.html & post.html layout files
 category:
@@ -157,7 +158,7 @@ category:
 
 
 # ----------------------------
-# --- BLOG dictionary keys --- 
+# --- BLOG dictionary keys ---
 # ----------------------------
 # dictionary keys for blog/index.html file
 # pagination:
@@ -165,5 +166,3 @@ category:
 #   previous: "Previous"
 #   page_1: "Page"
 #   page_2: "of"
-
-  
