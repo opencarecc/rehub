@@ -131,9 +131,9 @@ credits:
 contribute:
   title: "How to contribute"
   contribution_guidelines:
-    - guideline: "Contribute 1"
-    - guideline: "Contribute 2"
-    - guideline: "Contribute 3"
+    # - guideline: "Contribute 1"
+    # - guideline: "Contribute 2"
+    - guideline: "Do you want to contribute to the <b>reHub</b> project? Write to <a href='mailto:rehubstaff@wemake.cc'>rehubstaffstaff@wemake.cc</a> or leave a comment below!"
   more_link:
     - text: "Read more"
       link: "about"
@@ -144,7 +144,7 @@ contribute:
 # ------------------------------
 # dictionary keys for footer.html include file
 footer:
-  credits_line_html: "is maintained by <a href='https://opencare.cc'>opencarecc</a>"
+  credits_line_html: "is maintained by <a href='http://wemake.cc' target='_blank'>WeMake</a> and reHub as part of the <a href='http://opencare.cc/' target='_blank'>opencare.cc</a> project and as a result of the <a href='http://wemake.cc/opencare/maker-in-residence/' target='_blank'>opencare Maker in Residence</a>."
   eu_agreement_line: "This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 688670"
 
 
