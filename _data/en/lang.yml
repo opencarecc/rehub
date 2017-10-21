@@ -19,20 +19,20 @@ global:
 # dictionary keys for homeheader.html include file
 header:
   title: "reHub"
-  tagline: "reHub is an interface of interaction man-machine. It can be used in various areas for example the evaluation of dexterity, sport, music and gaming."
+  tagline: "interface of interaction man-machine. It can be used in various areas for example the evaluation of dexterity, sport, music and gaming."
   buttons:
     - text: "View on GitHub"
-      link: "https://github.com/opencarecc/voiceinstruments"
+      link: "https://github.com/opencarecc/rehub"
     - text: "Download .zip"
-      link: "https://github.com/opencarecc/voiceinstruments/zipball/master"
+      link: "https://github.com/opencarecc/rehub/zipball/master"
     - text: "Coming soon!"
-      link: "https://github.com/opencarecc/voiceinstruments/wiki"
+      link: "https://github.com/opencarecc/rehub/wiki"
 
 # dictionary keys for description.html include file
 description: "<h3>Acknowledgements</h3>
     <p>
       This website illustrates the experience and the progress of <b>reHub</b> within the <b>opencare Maker in Residence</b>,
-    which takes place in WeMake.</b>
+    which has been taking place in WeMake since June 2017.</b>
     </p>
   <h2>Our core values</h2>
   <p>
