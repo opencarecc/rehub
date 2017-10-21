@@ -19,7 +19,8 @@ global:
 # dictionary keys for homeheader.html include file
 header:
   title: "reHub"
-  tagline: "interface of interaction man-machine. It can be used in various areas for example the evaluation of dexterity, sport, music and gaming."
+  tagline: "interface of interaction man-machine.
+            It can be used in various areas for example the evaluation of dexterity, sport, music and gaming."
   buttons:
     - text: "View on GitHub"
       link: "https://github.com/opencarecc/rehub"
@@ -36,7 +37,7 @@ description: "<h3>Acknowledgements</h3>
     </p>
   <h2>Our core values</h2>
   <p>
-    <b>reHub</b> project is an <a href='http://www.rehub.pro/'><b>online platform</b></a> and <a href='https://github.com/reHubGlove'><b>open source kit</b></a> that allow the monitoring of fingers and hand movement for athletes,
+    <b>reHub</b> project is an <a href='http://www.rehub.pro/'><b>online platform</b></a> and <a href='https://github.com/reHubGlove'><b>open source kit</b></a> that allows the monitoring of fingers and hand movement for athletes,
     rehabilitation patients and music instrument students that needs a certain and digital data to monitor the exercise.
     Moreover, we are looking for our final user(s), who will try our product and help us develop different options:
     <ul>
@@ -70,7 +71,7 @@ topics:
 
 # dictionary keys for slick_slider.html include file
 slick:
-  description: ""
+  description: "Some moments from reHub's <b>opencare Maker in Residence</b>"
 
 # dictionary keys for image_index.html include file
 image_index: "<img src='https://opencarecc.github.io/rehub/assets/RH-home-image.jpg'>"
