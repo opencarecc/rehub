@@ -3,7 +3,7 @@ layout: post
 title: "reHub - Version 0.1"
 subtitle: "Here the essentials of <b>reHub</b> project."
 date: 2017-05-03 17:13:04 +0200
-image: "/rehub/assets/RH-post-img-application-02.jpg"
+image: "https://opencarecc.github.io/rehub/assets/RH-post-img-application-02.jpg"
 categories: ["news"]
 by: "Silvia"
 published: true
@@ -11,8 +11,6 @@ excerpt: "On 3rd of May 2017 we submitted our application to the <b>CALL FOR MAK
 lang: en
 ref: mir-version-01-rehub
 ---
-
-<img src="https://opencarecc.github.io/rehub/assets/RH-post-img-application-02.jpg" alt="reHub-02">
 
 ### Version 0.1 - 2017/05/03
 

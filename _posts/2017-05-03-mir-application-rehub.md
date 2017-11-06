@@ -3,7 +3,7 @@ layout: post
 title: "opencare MIR application - reHub"
 subtitle: "On 3rd of May 2017 we submitted our application to the <b>CALL FOR MAKERS - opencare Maker In Residence.</b>"
 date: 2017-05-03 11:13:04 +0200
-image: "/rehub/assets/RH-post-img-application.jpg"
+image: "https://opencarecc.github.io/rehub/assets/RH-post-img-application.jpg"
 categories: ["news"]
 by: "Silvia"
 published: true
@@ -11,8 +11,6 @@ excerpt: "On 3rd of May 2017 we submitted our application to the <b>CALL FOR MAK
 lang: en
 ref: mir-application-rehub
 ---
-
-<img src="https://opencarecc.github.io/rehub/assets/RH-post-img-application.jpg" alt="reHub-01">
 
 <blockquote><i>#reHub #glove is a tool used to monitor hands movements. Collected data can be applied to a various range of fields.</i></blockquote>
 

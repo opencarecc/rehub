@@ -3,7 +3,7 @@ layout: post
 title: "opencare MIR - Agile Kick Off"
 subtitle: "Our <b>opencare</b> residence at WeMake Milan is moving forward!"
 date: 2017-06-28 10:13:04 +0200
-image: "/rehub/assets/RH-post-img-kick-off-01.jpg"
+image: "https://opencarecc.github.io/rehub/assets/RH-post-img-kick-off-01.jpg"
 categories: ["news"]
 by: "Silvia"
 published: true
@@ -11,8 +11,6 @@ excerpt: "Our <b>opencare</b> residence at WeMake Milan is moving forward!"
 lang: en
 ref: mir-kick-off-rehub
 ---
-
-<img src="https://opencarecc.github.io/rehub/assets/RH-post-img-kick-off-01.jpg" alt="reHub-Team">
 
 Hi everyone! Last week we had the chance to start our residency at WeMake. Our experience will be different from those of [ResQ](https://opencarecc.github.io/ResQ/) and [Breathing Games](https://opencarecc.github.io/breathinggames/).
 

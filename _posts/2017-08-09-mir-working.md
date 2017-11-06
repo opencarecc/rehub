@@ -3,7 +3,7 @@ layout: post
 title: "opencare MIR - Keep working!"
 subtitle: "Some great updates from reHub team! We're working on textile & tech."
 date: 2017-08-09 10:13:04 +0200
-image: "/rehub/assets/RH-post-img-working.jpg"
+image: "https://opencarecc.github.io/rehub/assets/RH-post-img-working.jpg"
 categories: ["news"]
 by: "Silvia"
 published: true
@@ -11,8 +11,6 @@ excerpt: "Some great updates from reHub team! We're working on textile & tech."
 lang: en
 ref: mir-working-rehub
 ---
-
-<img src="https://opencarecc.github.io/rehub/assets/RH-post-img-working.jpg" alt="reHub-Working-opencare-MIR">
 
 <b>reHub</b> glove experimenting and developing processes are going hand in hand on two fronts:
 
