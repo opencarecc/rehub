@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "opencare MIR - Agile Kick Off"
-subtitle: "Our <b>opencare</b> residence at WeMake Milan is moving forward!"
+subtitle: "La nostra residenza <b>opencare</b> presso WeMake Milano sta procedendo spedita!"
 date: 2017-06-28 10:13:04 +0200
 image: "https://opencarecc.github.io/rehub/assets/RH-post-img-kick-off-01.jpg"
 categories: ["news","kick-off"]
 by: "Silvia"
 published: true
-excerpt: "Our <b>opencare</b> residence at WeMake Milan is moving forward!"
-lang: en
+excerpt: "La nostra residenza <b>opencare</b> presso WeMake Milano sta procedendo spedita!"
+lang: it
 ref: mir-kick-off-rehub
 ---
 

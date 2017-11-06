@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "opencare MIR - Keep working!"
-subtitle: "Some great updates from reHub team! We're working on textile & tech."
+subtitle: "Alcuni aggiornamenti dal team reHub! Stiamo lavorando su tessuti e tecnologie."
 date: 2017-08-09 10:13:04 +0200
 image: "https://opencarecc.github.io/rehub/assets/RH-post-img-working.jpg"
-categories: ["news", "update", "prototype"]
+categories: ["news","aggiornamento","prototipo"]
 by: "Silvia"
 published: true
-excerpt: "Some great updates from reHub team! We're working on textile & tech."
-lang: en
+excerpt: "Alcuni aggiornamenti dal team reHub! Stiamo lavorando su tessuti e tecnologie."
+lang: it
 ref: mir-working-rehub
 ---
 

@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "reHub - Version 0.1"
-subtitle: "Here the essentials of <b>reHub</b> project."
+title: "reHub - Versione 0.1"
+subtitle: "Qui gli elementi essenziali del progetto <b>reHub</b>"
 date: 2017-05-03 17:13:04 +0200
 image: "https://opencarecc.github.io/rehub/assets/RH-post-img-application-02.jpg"
-categories: ["news","update"]
+categories: ["news","aggiornamento"]
 by: "Silvia"
 published: true
-excerpt: "Here the essentials of <b>reHub</b> project."
-lang: en
+excerpt: "Qui gli elementi essenziali del progetto <b>reHub</b>"
+lang: it
 ref: mir-version-01-rehub
 ---
 
