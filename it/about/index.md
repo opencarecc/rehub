@@ -8,54 +8,54 @@ lang: it
 
 # About
 
-NECESSITA TRADUZIONE
-
 <img src="https://opencarecc.github.io/rehub/assets/RH-post-img-application-02.jpg" alt="reHub-about-01">
 
-<blockquote><i>A tool for proprioceptive physioterapic rehabilitation.</i></blockquote>
+<blockquote><i>Uno strumento per la riabilitazione fisioterapica propriocettiva.</i></blockquote>
 
-<b>reHub glove</b> is a tool designed for <b>proprioceptive rehabilitation</b>, to recover movement fluidity after an injury: provided by the physiotherapist, it allows the patient to record and report exercises data such as hand position, finger flexion and fingertips pressure. Recorded data are displayed through a software that reproduces a 3D hand, its movements and detected values. Through the software a physiotherapist is able to evaluate the therapeutic process and possibly change it. Thanks to reHub exercises can be done in physiotherapist presence or at a distance.
+<b>reHub glove</b> è uno strumento progettato per la <b>riabilitazione propriocettiva</b>, per recuperare la fluidità dei movimenti dopo un infortunio: fornito dai fisioterapisti, permette al paziente di registrare e riportare i dati relativi agli esercizi, come la posizione della mano, la flessione delle dita e la pressione dei polpastrelli.
+I dati registrati sono mostrati attraverso un software che riproduce il modello 3D della mano, i suoi movimenti ed i valori rilevati. Attraverso il software il fisioterapista è in grado di valutare il processo terapeutico e, in caso, modificarlo. Grazie a reHub gli esercizi possono essere svolti in presenza del fisioterapista o a distanza.
 
 <img src="https://opencarecc.github.io/rehub/assets/RH-about-img-01.jpg" alt="reHub-about-02">
 
-<b>reHub</b> glove experimenting and developing processes are going hand in hand on different fields:
+I processi di sperimentazione e sviluppo di <b>reHub</b> glove procedono di pari passo su ambiti differenti:
 
-* Electronics
+* Elettronica
 * Design
-* Software development
-* Community
+* Sviluppo di software
+* Comunità
 
-<blockquote><i>#reHub #glove is a tool used to monitor hands movements. Collected data can be applied to a various range of fields.</i></blockquote>
+<blockquote><i>#reHub #glove è uno strumento utilizzato per monitorare i movimenti delle mani. I dati ottenuti possono essere utilizzati in vari ambiti.</i></blockquote>
 
-### ELECTRONICS
+### ELETTRONICA
 
-Research and development of electronic components engages us every day: our goal is to optimize the performance of the parts and reduce production costs in order to make reHub technology accessible to as many users as possible.
+La ricerca e lo sviluppo di componenti elettronici ci coinvolge ogni giorno: il nostro scopo è di ottimizzare la performance delle diverse parti e ridurre i costi di produzione, per rendere la tecnologia reHub accessibile ad il più vasto numero di utenti.
 
-Our first prototype had an <b>Arduino microcontroller</b> connected to five flex sensors to verify both detectable characteristics and sampling rate, processing of the data to the log and render graphics softwares. Sensors evaluation is the main part of the feasibility study for the construction of reHub glove.
+Il nostro primo prototipo aveva un <b>Arduino microcontrollore</b> connesso a cinque sensori di flessione, per verificare sia le caratteristiche percettibili che il tasso di campionamento, processando i dati al registro ed i software di render grafico. La valutazione dei sensori è il cuore dello studio sulla flessibilità per costruire un guanto reHub.
 
-reHub main sensors are:
+i principali sensori di reHub sono:
 
-* flex sensors
-* pressure sensors
-* 6DOF position sensors (3DOF Accelerometer and Gyroscope)
+* sensori di flessione
+* sensori di pressione
+* 6DOF sensori di posizione (3DOF accelerometro e giroscopio)
 
 ### DESIGN
 
-Research and experimentation affected the glove’s design. The selection of these gloves was not random: we favored light colors, a fitted look with leather, leatherette and stretch fabric parts.As we could experience working in the field of wearables there are many variables to take into account. Future scenarios of our experiments include a journey into the world of yarns and silicones.
+La ricerca e la sperimentazione influenzano il design del guanto. La selezione di questi guanti non è stata casuale: abbiamo preferito colori chiari, materiali come pelle, simil pelle e tessuto stretch.
+Come abbiamo potuto sperimentare lavorando nel campo wearable ci sono molte variabili da tenere in considerazione. Scenari futuri dei nostri esperimenti includono un viaggio nel mondo dei fili e dei siliconi.
 
 ### SOFTWARE
 
-reHub’s glove <b>software</b> development is complementary to electronic components and textiles progress. Our software allows the product to collect, process, report and forward all data arriving from the sensors. With collected data physiotherapists are able to evaluate the applied therapy and the patient’s progress.
+Lo sviluppo del <b>software</b> del guanto reHub è complementare rispetto ai componenti elettronici ed al progresso tessile. Il nostro software permette al prodotto di collezionare, processare, riportare ed inviare tutti i dati che arrivano dai sensori. Con i dati ottenuti i fisioterapisti sono in grado di valutare la terapia in atto ed il progresso dei pazienti.
 
-Software’s components identified in our early stages development and shown during <b>2016 European Maker Faire</b> edition are three:
+I componenti del software, identificati nella prima fase di sviluppo e presentati durante l'edizione <b>2016 European Maker Faire</b> sono tre: Software’s components identified in our early stages development and shown during <b>2016 European Maker Faire</b>:
 
 * Firmaware
 * Middleware
 * Rendering
 
-### COMMUNITY
+### COMUNITÀ
 
-We want to <b>build a community</b> and start a business strategy. Thus, we are still looking for our <b>final user(s)</b>, who will try our product and help us develop different options:
+Vogliamo <b>costruire una comunità</b> ed iniziare una strategia di business. Per questo motivo stiamo cercando degli <b>utilizzatori finali</b>, che provino il prodotto e ci aiutino a sviluppare diverse opzioni nei campi:
 
 * Sport
 * Gaming
@@ -64,14 +64,14 @@ We want to <b>build a community</b> and start a business strategy. Thus, we are 
 
 ***
 
-## Our team
+## Il nostro team
 
 <img src="https://opencarecc.github.io/rehub/assets/RH-post-img-kick-off-02.jpg" alt="reHub-Team">
 
 * <b>Mauro Alfieri</b> - Project Developer
-* <b>Sara Savian</b> - Designer and maker
+* <b>Sara Savian</b> - Designer e maker
 
-Discover more about us:
+Per maggiori dettagli:
 
 * [Website](http://www.rehub.pro/)
 * [Facebook](https://www.facebook.com/rehubglove/)
