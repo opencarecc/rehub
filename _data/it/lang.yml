@@ -28,21 +28,21 @@ header:
 # dictionary keys for description.html include file
 description: "<h3>Riconoscimenti</h3>
     <p>
-      This website illustrates the experience and the progress of <b>reHub</b> within the <b>opencare Maker in Residence</b>,
-    which has been taking place in WeMake since June 2017.</b>
+    Questo sito racconta l'esperienza ed il progresso di <b>reHub</b> all'interno del programma <b>opencare Maker in Residence</b>,
+      che ha luogo presso WeMake da giugno 2017.
     </p>
   <h2>I nostri valori fondamentali</h2>
   <p>
-    <b>reHub</b> project is an <a href='http://www.rehub.pro/'><b>online platform</b></a> and <a href='https://github.com/reHubGlove'><b>open source kit</b></a> that allows the monitoring of fingers and hand movement for athletes,
-    rehabilitation patients and music instrument students that needs a certain and digital data to monitor the exercise.
-    Moreover, we are looking for our final user(s), who will try our product and help us develop different options:
+    Il progetto <b>reHub</b> è una <a href='http://www.rehub.pro/'><b>piattaforma online</b></a> ed un <a href='https://github.com/reHubGlove'><b>kit open source</b></a> che permette di monitorare
+    il movimento delle dita e della mano per atleti, pazienti in riabilitazione e studenti di musica che necessitino di un dato certo e digitale per monitorare l'esercizio.
+    Stiamo inoltre cercando degli utilizzatori finali, disposti a provare il prodotto ed aiutarci a sviluppare le seguenti opzioni:
     <ul>
       <li>Sport</li>
       <li>Gaming</li>
       <li>Educational</li>
       <li>Medical</li>
     </ul>
-    We want to built a <b>community</b> and start a business strategy.
+    Vogliamo costruire una <b>comunità</b> e iniziare una strategia di business.
   </p>"
 
 # dictionary keys for video.html include file
@@ -67,7 +67,7 @@ topics:
 
 # dictionary keys for slick_slider.html include file
 slick:
-  description: ""
+  description: "Alcuni momenti della <b>opencare Maker in Residence</b> di reHub"
   # pics:
   #   - pic: 'https://farm5.staticflickr.com/4211/34767438573_c6c73445d7_z_d.jpg'
   #   - pic: 'https://farm5.staticflickr.com/4217/35189199200_654c462308_z_d.jpg'
@@ -115,14 +115,14 @@ tutorials:
 # dictionary keys for license.html include file
 license:
   title: "Open Source"
-  license_content_html: "Software - <a href='https://www.gnu.org/licenses/gpl-3.0.en.html' target='_blank'>GNU General Public License</a>
-                        <br>
-                        Hardware - <a href='http://ohwr.org/cernohl' target='_blank'>CERN OHL v.1.2</a>"
+  license_content_html: "<img src='https://opencarecc.github.io/breathinggames/assets/Open-Source-Initiative-logo.png'>
+  <p><b>reHub</b> è un progetto <b>Open Source</b>.</p>
+  <p><i>[Seguiranno specifiche sulla licenza]</i></p>"
 
 # dictionary keys for credits.html include file
 credits:
   title: "Credits"
-  credits_content_html: "Questo sito è curato da <a href='http://wemake.cc' target='_blank'>WeMake</a> ed è parte del progetto <a href='http://opencare.cc/' target='_blank'>opencare.cc</a>.
+  credits_content_html: "Questo sito è curato da <a href='http://wemake.cc' target='_blank'>WeMake</a> e reHub ed è parte del progetto <a href='http://opencare.cc/' target='_blank'>opencare.cc</a> ed è risultato della <a href='http://wemake.cc/opencare/maker-in-residence/' target='_blank'>opencare Maker in Residence</a>.
                         <br><br>
                         Questo progetto ha ricevuto fondi dal programma di ricerca e innovazione Horizon 2020 dell'Unione Europea, accordo numero 688670
                         <br><br>
@@ -132,9 +132,9 @@ credits:
 contribute:
   title: "Come contribuire al progetto"
   contribution_guidelines:
-    - guideline: "Contribuire 1"
-    - guideline: "Contribuire 2"
-    - guideline: "Contribuire 3"
+    # - guideline: "Contribuire 1"
+    # - guideline: "Contribuire 2"
+    - guideline: "Vuoi contribuire al progetto <b>reHub</b>? Scrivi a <a href='mailto:rehubstaff@wemake.cc'>rehubstaff@wemake.cc</a> o lascia un commento qui sotto!"
   more_link:
     - text: "Maggiori informazioni"
       link: "about"
@@ -145,7 +145,7 @@ contribute:
 # ------------------------------
 # dictionary keys for footer.html include file
 footer:
-  credits_line_html: "è curato da <a href='https://opencare.cc'>opencarecc</a>"
+  credits_line_html: "è curato da <a href='http://wemake.cc' target='_blank'>WeMake</a> e reHub, è parte del progetto <a href='http://opencare.cc/' target='_blank'>opencare.cc</a> ed è risultato della <a href='http://wemake.cc/opencare/maker-in-residence/' target='_blank'>opencare Maker in Residence</a>."
   eu_agreement_line: "This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 688670"
 
 
