@@ -15,17 +15,35 @@ global:
 # dictionary keys for homeheader.html include file
 header:
   title: "reHub"
-  tagline: "Questo è il template per il sito di reHub"
+  tagline: "interfaccia di interazione uomo-macchina. Può essere utilizzata in aree differenti, per valutare
+  l’agilità, in ambito sportivo, musicale o nel gaming."
   buttons:
     - text: "Vedi su GitHub"
-      link: "https://github.com/opencarecc/voiceinstruments"
+      link: "https://github.com/opencarecc/rehub"
     - text: "Scarica .zip"
-      link: "https://github.com/opencarecc/voiceinstruments/zipball/master"
+      link: "https://github.com/opencarecc/rehub/zipball/master"
     - text: "Costruisci!"
-      link: "https://github.com/opencarecc/voiceinstruments/wiki"
+      link: "https://github.com/opencarecc/rehub/wiki"
 
 # dictionary keys for description.html include file
-description: "Questa è la descrizione del progetto Voice instruments"
+description: "<h3>Riconoscimenti</h3>
+    <p>
+      This website illustrates the experience and the progress of <b>reHub</b> within the <b>opencare Maker in Residence</b>,
+    which has been taking place in WeMake since June 2017.</b>
+    </p>
+  <h2>I nostri valori fondamentali</h2>
+  <p>
+    <b>reHub</b> project is an <a href='http://www.rehub.pro/'><b>online platform</b></a> and <a href='https://github.com/reHubGlove'><b>open source kit</b></a> that allows the monitoring of fingers and hand movement for athletes,
+    rehabilitation patients and music instrument students that needs a certain and digital data to monitor the exercise.
+    Moreover, we are looking for our final user(s), who will try our product and help us develop different options:
+    <ul>
+      <li>Sport</li>
+      <li>Gaming</li>
+      <li>Educational</li>
+      <li>Medical</li>
+    </ul>
+    We want to built a <b>community</b> and start a business strategy.
+  </p>"
 
 # dictionary keys for video.html include file
 video:
