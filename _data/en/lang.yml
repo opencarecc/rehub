@@ -121,7 +121,7 @@ license:
 # dictionary keys for credits.html include file
 credits:
   title: "Credits"
-  credits_content_html: "This website is maintained by <a href='http://wemake.cc' target='_blank'>WeMake</a> as part of the <a href='http://opencare.cc/' target='_blank'>opencare.cc</a> project.
+  credits_content_html: "This website is maintained by <a href='http://wemake.cc' target='_blank'>WeMake</a> and reHub as part of the <a href='http://opencare.cc/' target='_blank'>opencare.cc</a> project and as a result of the <a href='http://wemake.cc/opencare/maker-in-residence/' target='_blank'>opencare Maker in Residence</a>.
                         <br><br>
                         This project has received funding from the European Union's Horizon 2020 research and innovation programme under grant agreement No 688670.
                         <br><br>
