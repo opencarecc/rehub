@@ -12,26 +12,27 @@ lang: it
 ref: mir-working-rehub
 ---
 
-<b>reHub</b> glove experimenting and developing processes are going hand in hand on two fronts:
+I processi di sperimentazione e sviluppo del guanto <b>reHub</b> si sviluppano su due fronti:
 
-* Textile
-* Technology
+* Tessile
+* Tecnologico
 
 ***
 
 <img src="https://opencarecc.github.io/rehub/assets/RH-post-img-working-02.jpg" alt="reHub-Working-opencare-MIR">
 
-<b>reHub</b> Team is at work during <b>opencare - MIR</b> to analyze and redesign the glove, improving the weak aspects of the old prototype:
+Il team <b>reHub</b> è al lavoro durante la <b>opencare - MIR</b> per analizzare e riprogettare il guanto, migliorando gli aspetti deboli del prototipo precedente:
 
-### Textile
-We are defining a new pattern for the glove: a surface of stretch material that covers the top of the hand and holds to it by soft elastic bands on the bottom. Tailoring a glove is not easy stuff, this new model is designed to be easily reproduced with digital fabrication and basic sewing knowledge.
+### Tessile
+Stiamo definendo un nuovo pattern per il guanto: una superficie in materiale stretch che copra il dorso della mano e che sia legato ad essa attraverso delle bande morbide ed elastriche.
+Adattare il guanto non è facile, questo nuovo modello è progettato per essere riprodotto facilmente attraverso la fabbricazione digitale e con delle conoscenze base di cucito.
 
-### Technology
-Technologic development during <b>opencare MIR</b> was about searching for a micro controller worthy of the new glove, version 4.0, described above.
-We selected curieNano micro controller of DFRobot, the evolution of Arduino Curie's board developed on Intel's SoC.
+### Tecnologico
+Lo sviluppo tecnologico durante la <b>opencare MIR</b> ha riguardato la ricerca di un micro controllore valido per il nuovo guanto, versione 4.0, descritta precedentemente.
+Abbiamo selezionato il micro controllore di DFRobot curieNano, evoluzione della board di Arduino Curie su Intel's SoC.
 
-Here a sample of the system we will use to connect the <b>tiny microcontrollers</b>.
+Qui un esempio del sistema che useremo per connettere i <b>piccoli micro controllori</b>.
 
 <img src="https://opencarecc.github.io/rehub/assets/RH-post-img-working-03.jpg" alt="reHub-Working-opencare-MIR">
 
-Click [here](https://edgeryders.eu/t/rehub--working-on-textile-tech/6677) for more details!
+Clicca [qui](https://edgeryders.eu/t/rehub--working-on-textile-tech/6677) per maggiori dettagli!

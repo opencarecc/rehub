@@ -16,28 +16,28 @@ ref: mir-version-02-rehub
 
 * <b>ESSENTIALS</b>
 
-	* <b>Project Name:</b>
+	* <b>Nome del progetto:</b>
 		* reHub
-	* <b>Short description:</b>
-		* ReHub project is an online platform and open source kit that allow the monitoring of fingers and hand movement for athletes, rehabilitation patients and music instrument students that needs a certain and digital data to monitor the exercise. Unlike Neofect project our project is open source and open hardware.
-	* <b>Users:</b>
-		* People who need a certain and digital data to monitor the exercise
-		* Patients who need a proprioceptive rehabilitation
-		* Physiotherapist
-		* Electronics enthusiasts
-		* Music instrument students
-		* Athletes
-	* <b>The problem/need/reasons why:</b>
-		* Lack of software for monitoring the progress during rehabilitation therapy
-		* Lack of digital devices to monitor the hand rehabilitation
-		* The need of making the therapeutic exercises remotely
-		* Monitor and share data with who evaluates the exercise
-		* Increases the chances of exercise
-		* Historicizes the progress of therapy
-	* <b>The solution:</b>
-		* Online platform
-		* Open source kit
-	* <b>The Licence:</b>
+	* <b>Breve descrizione:</b>
+		* Il progetto ReHub è una piattaforma online ed un kit open source che permette il monitoraggio dei movimenti dalla mano e delle dita per atleti, pazienti in riabilitazione e studenti di musica che necessitano di monitorare un esercizio con un dato certo e digitale. A differenza del progetto Neofect, il nostro progetto è open source ed open hardware.
+	* <b>Utilizzatori:</b>
+		* Persone che abbiano bisogno di un dato certo e digitale per monitorare l'esercizio
+		* Pazienti che abbiano bisogno di riabilitazione propriocettiva
+		* Fisioterapisti
+		* Entusiasti di elettronica
+		* Studenti di strumenti musicali
+		* Atleti
+	* <b>Il problema/bisogno/motivo:</b>
+		* Mancanza di un software per monitorare il progresso durante la terapia riabilitativa
+		* Mancanza di un dispositivo per monitorare la riabilitazione della mano
+		* Necessità di svolgere degli esercizi terapeutici da remoto
+		* Monitoraggio e condivisione di dati con chi valuta l'esercizio
+		* Aumento delle possibilità di svolgere l'esercizio
+		* Storico del progresso della terapia
+	* <b>La soluzione:</b>
+		* Piattaforma online
+		* Kit open source
+	* <b>La licenza:</b>
 		* Open source software
 		* Open source hardware
 
@@ -60,17 +60,17 @@ ref: mir-version-02-rehub
 * <b>NEXT STEPS</b>
 
 	* <b>Content/Development:</b>
-		* Organize events to promote the project
-		* Engage communities (physiotherapists and patients, but also makers, designers, web developer and electronic experts)
+		* Organizzare eventi per promuovere il progetto
+		* Coinvolgere comunità (fisioterapisti e pazienti, ma anche maker, designer, web developer ed esperti di elettronica)
 	* <b>Hardware: </b>
-		* Realize the kit
-		* Sensors testing
-		* Pcb developing
-		* Textile sampling
-		* Digital pattern development for the glove
+		* Realizzare il kit
+		* Testare i sensori
+		* Sviluppare la PCB
+		* Campionare i tessuti
+		* Sviluppare il pattern digitale del guanto
 	* <b>Software:</b>
-		* Update the website
-		* Renew the software 3D
+		* Aggiornare il sito web
+		* Rinnova il software 3D
 
 ***
 

@@ -16,26 +16,26 @@ ref: mir-version-01-rehub
 
 * <b>ESSENTIALS</b>
 
-	* <b>Project Name:</b>
+	* <b>Nome del progetto:</b>
 		* reHub
-	* <b>Users:</b>
-		* Patients who need a proprioceptive rehabilitation
-		* Physiotherapist
-		* Electronics enthusiasts
-	* <b>The problem/need:</b>
-		* Lack of software for monitoring the progress during rehabilitation therapy
-		* Lack of digital devices to monitor the hand rehabilitation
-		* The need of making the therapeutic exercises remotely
-	* <b>The solution:</b>
-		* A digital glove device used to monitor hands movements
-		* Tutorials, kits and software to make the glove
+	* <b>Utilizzatori:</b>
+		* Pazienti che abbiano bisogno della riabilitazione propriocettiva
+		* Fisioterapisti
+		* Entusiasti di elettronica
+	* <b>Il problema/bisogno:</b>
+		* Mancanza di un software per monitorare il progresso durante la terapia riabilitativa
+		* Mancanza di un dispositivo per monitorare la riabilitazione della mano
+		* Necessità di svolgere degli esercizi terapeutici da remoto
+	* <b>La soluzione:</b>
+		* Un guanto digitale per monitorare i movimenti delle mani
+		* Tutorial, kit e software per realizzare il guanto
 
 ***
 
 * <b>OUTCOMES</b>
 
 	* <b>Content/Development:</b>
-		* opencare Maker in Residence application - [Link](https://edgeryders.eu/t/rehub-rehabilitation-glove/6600)
+		* application opencare Maker in Residence - [Link](https://edgeryders.eu/t/rehub-rehabilitation-glove/6600)
 	* <b>Software:</b>
 		* Firmaware
 		* Middleware
@@ -60,9 +60,9 @@ ref: mir-version-01-rehub
 * <b>NEXT STEPS</b>
 
 	* <b>Content/Development:</b>
-		* Identify our final user(s)
-		* Built a community
-		* Start a business strategy
+		* Identificare i nostri utenti finali
+		* Costruire una comunità
+		* Iniziare una strategia di business
 
 ***
 

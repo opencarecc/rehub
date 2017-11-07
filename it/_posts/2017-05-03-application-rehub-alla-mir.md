@@ -12,52 +12,28 @@ lang: it
 ref: mir-application-rehub
 ---
 
-<blockquote><i>#reHub #glove is a tool used to monitor hands movements. Collected data can be applied to a various range of fields.</i></blockquote>
+<blockquote><i>#reHub #glove è uno strumento utilizzato per monitorare i movimenti delle mani. I dati raccolti possono essere utilizzati in diversi ambiti.</i></blockquote>
 
-On 3rd of May 2017 we submitted our application to the <b>CALL FOR MAKERS - opencare Maker In Residence.</b>
+Il 3 maggio 2017 abbiamo mandato la nostra domanda per partecipare alla <b>CALL FOR MAKERS - opencare Maker In Residence.</b>
 
-The <b>opencare Maker in Residence</b> is the first edition of a special residency program organized by [WeMake](wemake.cc), as part of the <b>opencare</b> European project. It provides support, assistance, funding and acceleration to Makers – from all over the world – who are interested in developing / validating / iterating an open source project in the health and care field.
+La <b>opencare Maker in Residence</b> è la prima edizione di uno speciale programma di residenza organizzato da [WeMake](wemake.cc), come parte del progetto europeo <b>opencare</b>. Fornisce supporto, assistenza, fondi ed accelerazione ai Makers - da tutto il mondo - che sono interessati a sviluppare / validare / iterare un progetto open source nel campo della salute e del benessere.
 
 <img src="https://opencarecc.github.io/rehub/assets/RH-post-img-application-02.jpg" alt="reHub-02">
 
-We applied as [reHub](http://www.rehub.pro/). <b>reHub</b> is a tool designed for <b>proprioceptive rehabilitation</b>, to recover movement fluidity after an injury: provided by the physiotherapist, it allows the patient to record and report exercises data such as hand position, finger flexion and fingertips pressure. Recorded data are displayed through a software that reproduces a 3D hand, its movements and detected values.
+Abbiamo fatto domanda come [reHub](http://www.rehub.pro/). <b>reHub glove</b> è uno strumento progettato per la <b>riabilitazione propriocettiva</b>, per recuperare la fluidità dei movimenti dopo un infortunio: fornito dai fisioterapisti, permette al paziente di registrare e riportare i dati relativi agli esercizi, come la posizione della mano, la flessione delle dita e la pressione dei polpastrelli.
+I dati registrati sono mostrati attraverso un software che riproduce il modello 3D della mano, i suoi movimenti ed i valori rilevati.
 
-Through the software a physiotherapist is able to evaluate the therapeutic process and possibly change it. Thanks to reHub exercises can be done in physiotherapist presence or at a distance.
+Attraverso il software il fisioterapista è in grado di valutare il processo terapeutico e, in caso, modificarlo. Grazie a reHub gli esercizi possono essere svolti in presenza del fisioterapista o a distanza.
 
-We are still looking for our <b>final user(s)</b>, who will try our product and help us develop different options:
+Stiamo cercando degli <b>utilizzatori finali</b>, che vogliano provare il prodotto ed aiutarci a sviluppare diverse opzioni nei campi:
 
 * Sport
 * Gaming
 * Educational
 * Medical  
 
-We want to <b>build a community</b> and start a business strategy.
+Vogliamo <b>costituire una comunità</b> ed iniziare una strategia di business.
 
-Continue to read our story on <b>EdgeRyders</b> by clicking on this [link](https://edgeryders.eu/t/reHub-rehabilitation-glove/6600)!
+Continua a leggere la nostra storia su <b>Edgeryders</b> cliccando su questo [link](https://edgeryders.eu/t/reHub-rehabilitation-glove/6600)!
 
 <img src="https://opencarecc.github.io/rehub/assets/RH-post-img-application.jpg" alt="reHub-01">
-
-NECESSITA TRADUZIONE
-
-<blockquote><i>#reHub #glove is a tool used to monitor hands movements. Collected data can be applied to a various range of fields.</i></blockquote>
-
-On 3rd of May 2017 we submitted our application to the <b>CALL FOR MAKERS - opencare Maker In Residence.</b>
-
-The <b>opencare Maker in Residence</b> is the first edition of a special residency program organized by [WeMake](wemake.cc), as part of the <b>opencare</b> European project. It provides support, assistance, funding and acceleration to Makers – from all over the world – who are interested in developing / validating / iterating an open source project in the health and care field.
-
-<img src="https://opencarecc.github.io/rehub/assets/RH-post-img-application-02.jpg" alt="reHub-02">
-
-We applied as [reHub](http://www.rehub.pro/). <b>reHub</b> is a tool designed for <b>proprioceptive rehabilitation</b>, to recover movement fluidity after an injury: provided by the physiotherapist, it allows the patient to record and report exercises data such as hand position, finger flexion and fingertips pressure. Recorded data are displayed through a software that reproduces a 3D hand, its movements and detected values.
-
-Through the software a physiotherapist is able to evaluate the therapeutic process and possibly change it. Thanks to reHub exercises can be done in physiotherapist presence or at a distance.
-
-We are still looking for our <b>final user(s)</b>, who will try our product and help us develop different options:
-
-* Sport
-* Gaming
-* Educational
-* Medical  
-
-We want to <b>build a community</b> and start a business strategy.
-
-Continue to read our story on <b>EdgeRyders</b> by clicking on this [link](https://edgeryders.eu/t/reHub-rehabilitation-glove/6600)!
