@@ -3,7 +3,7 @@ layout: post
 title: "opencare MIR - Intervista"
 subtitle: "Pochi giorni dopo l'inizio della opencare Maker in Residence Alessia, dello staff di WeMake, ci ha intervistati."
 date: 2017-11-21 10:13:04 +0200
-image: "https://opencarecc.github.io/rehub/assets/RH-post-img-working.jpg"
+image: "https://opencarecc.github.io/rehub/assets/RH-post-img-02.jpg"
 categories: ["news","aggiornamento"]
 by: "Silvia"
 published: true
