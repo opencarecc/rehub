@@ -1,37 +1,30 @@
 ---
 layout: post
-title: "opencare MIR - Keep working!"
-subtitle: "Some great updates from reHub team! We're working on textile & tech."
-date: 2017-08-09 10:13:04 +0200
-image: "https://opencarecc.github.io/rehub/assets/RH-post-img-working.jpg"
-categories: ["news", "update", "prototype"]
+title: "opencare conference - Call for Solutions"
+subtitle: "On November 22nd and 23rd we have participated to opencare conference, since we have been selected together with other 9 projects for the Call for Solutions.. and we WON the prize!"
+date: 2017-11-23 12:13:04 +0200
+image: "https://opencarecc.github.io/rehub/assets/RH-post-img-03.jpg"
+categories: ["news", "update"]
 by: "Silvia"
 published: true
-excerpt: "Some great updates from reHub team! We're working on textile & tech."
+excerpt: "On November 22nd and 23rd we have participated to <b>opencare conference</b>, since we have been selected together with other 9 projects for the <b>Call for Solutions</b>.. and we WON the prize!"
 lang: en
-ref: mir-working-rehub
+ref: opencare-conference
 ---
 
-<b>reHub</b> glove experimenting and developing processes are going hand in hand on two fronts:
+On November 22nd and 23rd we have participated to <b>[opencare conference](http://opencare.cc/conference/)</b>, since we have been selected, together with other 9 projects, for the <b>[Call for Solutions](http://wemake.cc/2017/08/31/partecipa-alla-call-for-solution-entro-il-30-settembre/)</b>.
 
-* Textile
-* Technology
+The <b>opencare conference</b> represents the conclusion of the European project <b>opencare</b>, and is an opportunity to discuss together with the local and international communities involved, with researchers interested in the topic, with international experts and with Policy Makers, and find an answer to the following questions:
+* What are the <b>new models for care</b> in the community and how are they supported by digital technologies?
+* What conditions (urban, organizational) can <b>facilitate the spread</b> of "open" and collaborative care systems?
+* What is the role of the <b>new digital manufacturing actors</b> in the processes of social innovation and care?
 
-***
+The Call for Solutions, on the other hand, aims to <b>gather innovative ideas</b> in the field of new technologies, apps, equipment, entrepreneurial ideas, products and digital platforms that promote care solutions for communities, families, caregivers and single individuals.
 
-<img src="https://opencarecc.github.io/rehub/assets/RH-post-img-working-02.jpg" alt="reHub-Working-opencare-MIR">
+<img src="https://opencarecc.github.io/rehub/assets/RH-post-img-04.jpg" alt="reHub-02">
 
-<b>reHub</b> Team is at work during <b>opencare - MIR</b> to analyze and redesign the glove, improving the weak aspects of the old prototype:
+reHub has been selected as a finalist, and has been choosen as one of the <b>winners</b> of the prizes!
 
-### Textile
-We are defining a new pattern for the glove: a surface of stretch material that covers the top of the hand and holds to it by soft elastic bands on the bottom. Tailoring a glove is not easy stuff, this new model is designed to be easily reproduced with digital fabrication and basic sewing knowledge.
+Check out the gallery of the event:
 
-### Technology
-Technologic development during <b>opencare MIR</b> was about searching for a micro controller worthy of the new glove, version 4.0, described above.
-We selected curieNano micro controller of DFRobot, the evolution of Arduino Curie's board developed on Intel's SoC.
-
-Here a sample of the system we will use to connect the <b>tiny microcontrollers</b>.
-
-<img src="https://opencarecc.github.io/rehub/assets/RH-post-img-working-03.jpg" alt="reHub-Working-opencare-MIR">
-
-Click [here](https://edgeryders.eu/t/rehub--working-on-textile-tech/6677) for more details!
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/wemake_cc/albums/72157690014559865" title="opencare CONFERENCE"><img src="https://farm5.staticflickr.com/4563/38614975751_f7da7c2dbc_k.jpg" width="2048" height="1365" alt="opencare CONFERENCE"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
