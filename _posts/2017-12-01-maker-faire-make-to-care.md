@@ -1,37 +1,25 @@
 ---
 layout: post
-title: "opencare MIR - Keep working!"
-subtitle: "Some great updates from reHub team! We're working on textile & tech."
-date: 2017-08-09 10:13:04 +0200
-image: "https://opencarecc.github.io/rehub/assets/RH-post-img-working.jpg"
-categories: ["news", "update", "prototype"]
+title: "opencare - Make to Care and Maker Faire Rome"
+subtitle: "On November 29th we have participated in the final round of Make to Care contest, and from December 1st to 3rd we have participated in the Maker Faire Rome. Busy and satisfying month!"
+date: 2017-12-01 12:13:04 +0200
+image: "https://opencarecc.github.io/rehub/assets/RH-post-img-05.jpg"
+categories: ["news", "update"]
 by: "Silvia"
 published: true
-excerpt: "Some great updates from reHub team! We're working on textile & tech."
+excerpt: "On November 29th we have been participated to the final round of <b>Make to Care contest</b>, and from December 1st to 3rd we have participated to <b>Maker Faire Rome</b>. Busy and satisfying month!"
 lang: en
-ref: mir-working-rehub
+ref: opencare-maker-faire-rome
 ---
 
-<b>reHub</b> glove experimenting and developing processes are going hand in hand on two fronts:
+On November 29th we have participated in the final round of [Make to Care](http://www.maketocare.it/) contest, since we were selected, together with other 7 projects, among all the projects that applied in the Wellness & Healthcare of the Maker Faire Rome!
+Unfortunately we didn't win the prize, but we still think that this experience has been extremely empowering.
 
-* Textile
-* Technology
+Click on this [link](http://www.maketocare.it/story/rehub/) to check our profile.
 
-***
+<img src="https://opencarecc.github.io/rehub/assets/RH-post-img-06.jpg" alt="reHub-02">
 
-<img src="https://opencarecc.github.io/rehub/assets/RH-post-img-working-02.jpg" alt="reHub-Working-opencare-MIR">
+Right afterwards, from December 1st to 3rd, we have participated in the <b>[Maker Faire Rome](http://www.makerfairerome.eu/en/)</b> with the project [reHub](http://www.makerfairerome.eu/it/espositori/?ids=2119) in the category Wellness & Healthcare.
 
-<b>reHub</b> Team is at work during <b>opencare - MIR</b> to analyze and redesign the glove, improving the weak aspects of the old prototype:
-
-### Textile
-We are defining a new pattern for the glove: a surface of stretch material that covers the top of the hand and holds to it by soft elastic bands on the bottom. Tailoring a glove is not easy stuff, this new model is designed to be easily reproduced with digital fabrication and basic sewing knowledge.
-
-### Technology
-Technologic development during <b>opencare MIR</b> was about searching for a micro controller worthy of the new glove, version 4.0, described above.
-We selected curieNano micro controller of DFRobot, the evolution of Arduino Curie's board developed on Intel's SoC.
-
-Here a sample of the system we will use to connect the <b>tiny microcontrollers</b>.
-
-<img src="https://opencarecc.github.io/rehub/assets/RH-post-img-working-03.jpg" alt="reHub-Working-opencare-MIR">
-
-Click [here](https://edgeryders.eu/t/rehub--working-on-textile-tech/6677) for more details!
+reHub has been involved in plenty of events and competitions in these months, and is <b>quickly improving</b>!
+More news to come, stay updated!
