@@ -45,6 +45,13 @@ description: "<h3>Riconoscimenti</h3>
     Vogliamo costruire una <b>comunità</b> e iniziare una strategia di business.
   </p>"
 
+# dictionary keys for acknowledgement.html include file
+acknowledgement: "<h3>Riconoscimenti</h3>
+    <p>
+    Questo sito racconta l'esperienza ed il progresso di <b>reHub</b> all'interno del programma <b>opencare Maker in Residence</b>,
+      che ha luogo presso WeMake da giugno 2017.
+    </p>"
+
 # dictionary keys for video.html include file
 video:
   title: "Titolo del video"

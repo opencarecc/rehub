@@ -49,6 +49,13 @@ description: "<h3>Acknowledgements</h3>
     We want to built a <b>community</b> and start a business strategy.
   </p>"
 
+# dictionary keys for acknowledgement.html include file
+acknowledgement: "<h3>Acknowledgements</h3>
+    <p>
+      This website illustrates the experience and the progress of <b>reHub</b> within the <b>opencare Maker in Residence</b>,
+    which has been taking place in WeMake since June 2017.</b>
+    </p>"
+
 # dictionary keys for video.html include file
 video:
   title: "video english title"
