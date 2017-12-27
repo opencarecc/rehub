@@ -26,12 +26,7 @@ header:
       link: "https://github.com/opencarecc/rehub/wiki"
 
 # dictionary keys for description.html include file
-description: "<h3>Riconoscimenti</h3>
-    <p>
-    Questo sito racconta l'esperienza ed il progresso di <b>reHub</b> all'interno del programma <b>opencare Maker in Residence</b>,
-      che ha luogo presso WeMake da giugno 2017.
-    </p>
-  <h2>I nostri valori fondamentali</h2>
+description: "<h2>I nostri valori fondamentali</h2>
   <p>
     Il progetto <b>reHub</b> è una <a href='http://www.rehub.pro/'><b>piattaforma online</b></a> ed un <a href='https://github.com/reHubGlove'><b>kit open source</b></a> che permette di monitorare
     il movimento delle dita e della mano per atleti, pazienti in riabilitazione e studenti di musica che necessitino di un dato certo e digitale per monitorare l'esercizio.
