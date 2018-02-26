@@ -26,8 +26,8 @@ header:
       link: "https://github.com/opencarecc/rehub"
     - text: "Download .zip"
       link: "https://github.com/opencarecc/rehub/zipball/master"
-    - text: "Coming soon!"
-      link: "https://github.com/opencarecc/rehub/wiki"
+    - text: "Build your own!"
+      link: "https://github.com/rehubglove"
 
 # dictionary keys for description.html include file
 description: "<h2>Our core values</h2>

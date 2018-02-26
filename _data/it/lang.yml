@@ -23,7 +23,7 @@ header:
     - text: "Scarica .zip"
       link: "https://github.com/opencarecc/rehub/zipball/master"
     - text: "Costruisci!"
-      link: "https://github.com/opencarecc/rehub/wiki"
+      link: "https://github.com/rehubglove"
 
 # dictionary keys for description.html include file
 description: "<h2>I nostri valori fondamentali</h2>
